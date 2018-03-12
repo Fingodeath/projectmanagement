@@ -1,0 +1,57 @@
+C:\Users\mschellhammer\AppData\Local\Temporary Projects\ProjectManagement\bin\Debug\ProjectManagement.exe
+C:\Users\mschellhammer\AppData\Local\Temporary Projects\ProjectManagement\bin\Debug\ProjectManagement.pdb
+C:\Users\mschellhammer\AppData\Local\Temporary Projects\ProjectManagement\bin\Debug\ProjectManagement.xml
+C:\Users\mschellhammer\AppData\Local\Temporary Projects\ProjectManagement\obj\x86\Debug\ProjectManagement.Form1.resources
+C:\Users\mschellhammer\AppData\Local\Temporary Projects\ProjectManagement\obj\x86\Debug\ProjectManagement.Resources.resources
+C:\Users\mschellhammer\AppData\Local\Temporary Projects\ProjectManagement\obj\x86\Debug\ProjectManagement.vbproj.GenerateResource.Cache
+C:\Users\mschellhammer\AppData\Local\Temporary Projects\ProjectManagement\obj\x86\Debug\ProjectManagement.exe
+C:\Users\mschellhammer\AppData\Local\Temporary Projects\ProjectManagement\obj\x86\Debug\ProjectManagement.xml
+C:\Users\mschellhammer\AppData\Local\Temporary Projects\ProjectManagement\obj\x86\Debug\ProjectManagement.pdb
+C:\Users\mschellhammer\AppData\Local\Temporary Projects\ProjectManagement\bin\Debug\GlobalLibrary.dll
+C:\Users\mschellhammer\AppData\Local\Temporary Projects\ProjectManagement\bin\Debug\Csla.dll
+C:\Users\mschellhammer\AppData\Local\Temporary Projects\ProjectManagement\bin\Debug\GlobalLibrary.pdb
+C:\Users\mschellhammer\AppData\Local\Temporary Projects\ProjectManagement\bin\Debug\GlobalLibrary.xml
+C:\Users\mschellhammer\AppData\Local\Temporary Projects\ProjectManagement\obj\x86\Debug\ProjectManagement.vbprojResolveAssemblyReference.cache
+C:\Users\mschellhammer\Documents\Visual Studio 2010\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.exe
+C:\Users\mschellhammer\Documents\Visual Studio 2010\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.xml
+C:\Users\mschellhammer\Documents\Visual Studio 2010\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.pdb
+C:\Users\mschellhammer\Documents\Visual Studio 2010\Projects\ProjectManagement\ProjectManagement\bin\Debug\ProjectManagement.exe
+C:\Users\mschellhammer\Documents\Visual Studio 2010\Projects\ProjectManagement\ProjectManagement\bin\Debug\ProjectManagement.pdb
+C:\Users\mschellhammer\Documents\Visual Studio 2010\Projects\ProjectManagement\ProjectManagement\bin\Debug\ProjectManagement.xml
+C:\Users\mschellhammer\Documents\Visual Studio 2010\Projects\ProjectManagement\ProjectManagement\bin\Debug\GlobalLibrary.dll
+C:\Users\mschellhammer\Documents\Visual Studio 2010\Projects\ProjectManagement\ProjectManagement\bin\Debug\Csla.dll
+C:\Users\mschellhammer\Documents\Visual Studio 2010\Projects\ProjectManagement\ProjectManagement\bin\Debug\GlobalLibrary.pdb
+C:\Users\mschellhammer\Documents\Visual Studio 2010\Projects\ProjectManagement\ProjectManagement\bin\Debug\GlobalLibrary.xml
+C:\Users\mschellhammer\Documents\Visual Studio 2010\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.vbprojResolveAssemblyReference.cache
+C:\Users\mschellhammer\Documents\Visual Studio 2010\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.Form1.resources
+C:\Users\mschellhammer\Documents\Visual Studio 2010\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.Resources.resources
+C:\Users\mschellhammer\Documents\Visual Studio 2010\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.vbproj.GenerateResource.Cache
+\\NASPROSQL1\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.exe
+\\NASPROSQL1\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.xml
+\\NASPROSQL1\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.pdb
+\\NASPROSQL1\Projects\ProjectManagement\ProjectManagement\bin\Debug\ProjectManagement.exe
+\\NASPROSQL1\Projects\ProjectManagement\ProjectManagement\bin\Debug\ProjectManagement.pdb
+\\NASPROSQL1\Projects\ProjectManagement\ProjectManagement\bin\Debug\ProjectManagement.xml
+\\NASPROSQL1\Projects\ProjectManagement\ProjectManagement\bin\Debug\Csla.dll
+\\NASPROSQL1\Projects\ProjectManagement\ProjectManagement\bin\Debug\GlobalLibrary.pdb
+\\NASPROSQL1\Projects\ProjectManagement\ProjectManagement\bin\Debug\GlobalLibrary.xml
+\\NASPROSQL1\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.vbprojResolveAssemblyReference.cache
+\\NASPROSQL1\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.Form1.resources
+\\NASPROSQL1\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.Resources.resources
+\\NASPROSQL1\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.vbproj.GenerateResource.Cache
+C:\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.exe
+C:\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.xml
+C:\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.pdb
+C:\Projects\ProjectManagement\ProjectManagement\bin\Debug\ProjectManagement.exe
+C:\Projects\ProjectManagement\ProjectManagement\bin\Debug\ProjectManagement.pdb
+C:\Projects\ProjectManagement\ProjectManagement\bin\Debug\ProjectManagement.xml
+C:\Projects\ProjectManagement\ProjectManagement\bin\Debug\GlobalLibrary.dll
+C:\Projects\ProjectManagement\ProjectManagement\bin\Debug\Csla.dll
+C:\Projects\ProjectManagement\ProjectManagement\bin\Debug\GlobalLibrary.pdb
+C:\Projects\ProjectManagement\ProjectManagement\bin\Debug\GlobalLibrary.xml
+C:\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.Form1.resources
+C:\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.Resources.resources
+C:\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.vbproj.GenerateResource.Cache
+C:\Projects\ProjectManagement\ProjectManagement\bin\Debug\HLICustomControls.dll
+C:\Projects\ProjectManagement\ProjectManagement\bin\Debug\HLICustomControls.pdb
+C:\Projects\ProjectManagement\ProjectManagement\bin\Debug\HLICustomControls.xml
