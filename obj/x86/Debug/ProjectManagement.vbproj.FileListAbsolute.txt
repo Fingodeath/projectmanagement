@@ -55,3 +55,4 @@ C:\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.
 C:\Projects\ProjectManagement\ProjectManagement\bin\Debug\HLICustomControls.dll
 C:\Projects\ProjectManagement\ProjectManagement\bin\Debug\HLICustomControls.pdb
 C:\Projects\ProjectManagement\ProjectManagement\bin\Debug\HLICustomControls.xml
+C:\Projects\ProjectManagement\ProjectManagement\obj\x86\Debug\ProjectManagement.vbprojResolveAssemblyReference.cache

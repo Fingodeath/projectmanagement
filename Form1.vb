@@ -11,7 +11,7 @@ Imports Microsoft.Office.Interop
 
 Public Class Form1
 
-    Public DBParameters As New GlobalLibrary.DBParameters '(Enums.DatabaseMode.Datarepository, "USE1B-SQL12")
+    Public DBParameters As New GlobalLibrary.DBParameters(Enums.DatabaseMode.Production, "USE1B-SQL12")
     Private Functions As New GlobalLibrary.Functions
     Private SQLHelper As New GlobalLibrary.SqlHelper
     Private usrApplicationManagment As New GlobalLibrary.ApplicationAccess.DRUser()
